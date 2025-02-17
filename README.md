@@ -16,7 +16,7 @@
 ### 📈 GitHub Статистика  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=12masek34&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12masek34&layout=compact&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=12masek34&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=12masek34)](https://github.com/12masek34/github-readme-activity-graph)
 
 ---
 
