@@ -1,10 +1,10 @@
-# 👋 Привет! Я Дмитрий Мартысь  
+# 👋 Hi! I'm Dmitriy Martys  
 
-💻 Python-разработчик | 🔹 Изучаю Go | 🚀 Люблю писать чистый и эффективный код  
+💻 Python Developer | 🔹 Learning Go | 🚀 Passionate about writing clean and efficient code  
 
 ---
 
-### 🔧 Навыки и технологии  
+### 🔧 Skills & Technologies  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -13,12 +13,12 @@
 
 ---
 
-### 📈 GitHub Статистика  
+### 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=12masek34&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12masek34&layout=compact&theme=radical)  
 
 ---
 
-### 📬 Контакты  
+### 📬 Contact Me  
 📧 Email: [12masek34@mail.ru](mailto:12masek34@mail.ru)  
 📟 Telegram: [@Dmitriy_Martys](https://t.me/Dmitriy_Martys)  
