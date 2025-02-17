@@ -14,8 +14,8 @@
 ---
 
 ### 📈 GitHub Статистика  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmitriyMartys&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyMartys&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=12masek34&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12masek34&layout=compact&theme=radical)  
 
 ---
 
