@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Dmitriy Martys  
 
-💻 Python Developer | 🔹 Learning Go | 🚀 Passionate about writing clean and efficient code  
+💻 Python Developer | 🔹 Learning Go Rust | 🚀 Passionate about writing clean and efficient code  
 
 ---
 
